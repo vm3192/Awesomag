@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="13" height="13" viewBox="0 0 13 13">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #b0b0b0;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="Date_icon" data-name="Date icon" class="cls-1" d="M152,754a1,1,0,0,0-1,1v10a1,1,0,0,0,1,1h11a1,1,0,0,0,1-1V755a1,1,0,0,0-1-1h-1v0.906a1.333,1.333,0,0,1-1.5,1.11s-1.531.015-1.5-1.094L158.984,754h-2.968v0.938s0.015,1.078-1.485,1.078c0,0-1.547-.047-1.547-1.063V754H152Zm0,3h2v2h-2v-2Zm0,3h2v2h-2v-2Zm3-3h2v2h-2v-2Zm0,3h2v2h-2v-2Zm3-3h2v2h-2v-2Zm0,3h2v2h-2v-2Zm3,0h2v2h-2v-2Zm0-3h2v2h-2v-2Zm-9,6h2v2h-2v-2Zm3,0h2v2h-2v-2Zm3,0h2v2h-2v-2Zm3,0h2v2h-2v-2Zm-6.5-10a0.5,0.5,0,0,1,.5.5v1a0.5,0.5,0,0,1-1,0v-1A0.5,0.5,0,0,1,154.5,753Zm6,0a0.5,0.5,0,0,1,.5.5v1a0.5,0.5,0,0,1-1,0v-1A0.5,0.5,0,0,1,160.5,753Z" transform="translate(-151 -753)"/>
+</svg>

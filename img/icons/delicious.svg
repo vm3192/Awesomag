@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="22" height="22" viewBox="0 0 22 22">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #717171;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="delicious" class="cls-1" d="M478,1453h18a2,2,0,0,1,2,2v18a2,2,0,0,1-2,2H478a2,2,0,0,1-2-2v-18A2,2,0,0,1,478,1453Zm1,2h7a1,1,0,0,1,1,1v7a1,1,0,0,1-1,1h-7a1,1,0,0,1-1-1v-7A1,1,0,0,1,479,1455Zm9,9h7a1,1,0,0,1,1,1v7a1,1,0,0,1-1,1h-7a1,1,0,0,1-1-1v-7A1,1,0,0,1,488,1464Z" transform="translate(-476 -1453)"/>
+</svg>
